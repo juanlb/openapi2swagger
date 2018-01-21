@@ -4,9 +4,9 @@
 
 
 Amazon AWS API Gateway claims that is compatible with Swagger.
-I don't think so.
+I don't think so, just the Swagger format version 2 it is supported.
 
-Swagger is now Openapi, and fame and fortune is all for him.
+Swagger 2 evolved to Openapi 3, and fame and fortune is all for him.
 
 But the poor souls that want to use the (almost) amazing API Gateway have to wait that Amazon guys include the new format.
 
