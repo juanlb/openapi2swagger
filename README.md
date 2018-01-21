@@ -29,8 +29,8 @@ docker build -t openapi2swagger:latest .
 docker run -v /directory/where/is/the/file:/tmp -e OPENAPI_FILE=the_openapi3_file.json  openapi2swagger:latest > ~/swagger2_file.json
 ```
 #### Parameters
-- /directory/where/is/the/file : the directory on your computer where is the Openapi3 file spec.
-- the_openapi3_file.json: the file name.
+- **/directory/where/is/the/file** : the directory on your computer where is the Openapi3 file spec.
+- **the_openapi3_file.json** : the file name.
 
 ### Notes
 #### Removing the "example" property
