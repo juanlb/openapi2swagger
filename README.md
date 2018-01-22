@@ -15,7 +15,7 @@ Until that happen, I'm glad to anounce:
 # Openapi 3 downgrade to Swagger 2
 
 I really didn't do anything, I've just combined the great work of other people, in particular: 
- [**Mermade / swagger2openapi**](https://github.com/Mermade/swagger2openapi)
+[**LucyBot-Inc/api-spec-converter**](https://github.com/LucyBot-Inc/api-spec-converter)
 
 ## Usage
 This repo has a `Dockerfile` that create a container with the hability of convert a Openapi3 spec file and convert it in a Swagger2 file, compatible with AWS API Gateway.
